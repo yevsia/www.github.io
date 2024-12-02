@@ -1,8 +1,4 @@
-{
-  "hello": "привет",
-  "world": "мир",
-  "book": "книга",
-  "computer": "компьютер",
-  "My name is Nikita!": "Меня зовут Никита!",
-  "apple": "яблоко"
-}
+[
+    {"english": "hello", "russian": "привет"},
+    {"english": "world", "russian": "мир"}
+]
