@@ -1,4 +1,8 @@
 [
-    {"english": "hello", "russian": "привет"},
-    {"english": "world", "russian": "мир"}
-]
+    {"english": "I feel good.", "russian": "Я чувствую себя хорошо."},
+	{"english": "From time to time.", "russian": "Время от времени."},
+	{"english": "He likes it very much.", "russian": "Ему это очень нравится."},
+	{"english": "He's very annoying.", "russian": "Он очень раздражает."},
+	{"english": "I'd like to go for a walk.", "russian": "Я бы хотел пойти погулять."},
+	{"english": "If you need my help, please let me know.", "russian": "Если вам нужна моя помощь, пожалуйста, дайте мне знать."},
+	{"english": "I'll come back later.", "russian": "Я вернусь позже."}
